@@ -27,3 +27,7 @@ The project consists of the following files:
 
 ### License:
 Apache License 2.0
+
+## Detections (Static : Virustotal) (Runtime: Scanner.to) :
+![image](https://github.com/user-attachments/assets/da6a788b-2712-4ce9-8473-57ecf1a0e21b)
+![image](https://github.com/user-attachments/assets/c1d03232-e696-4062-80dc-d9f497466e92)
